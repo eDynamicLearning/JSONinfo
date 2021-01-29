@@ -1,0 +1,16 @@
+[
+{"Sandwich Group":"Wraps and Rolls","Sandwich Name":"Tuna Salad","Bread/Wrapper Type":"Tortilla","Major Inner Ingredients":"Tuna salad, Provolone, Cucumber","Sauces":"None","Temperature":"Cold"},
+{"Sandwich Group":"Wraps and Rolls","Sandwich Name":"Egg Salad","Bread/Wrapper Type":"Tortilla","Major Inner Ingredients":"Egg Salad, Lettuce, Tomato","Sauces":"None","Temperature":"Cold"},
+{"Sandwich Group":"Wraps and Rolls","Sandwich Name":"Turkey Wrap","Bread/Wrapper Type":"Lettuce","Major Inner Ingredients":"Turkey breast, Pepper Jack, Lettuce, Tomato, Onion","Sauces":"Mustard","Temperature":"Cold"},
+{"Sandwich Group":"Wraps and Rolls","Sandwich Name":"Veg Wrap","Bread/Wrapper Type":"Lettuce","Major Inner Ingredients":"Roasted Portobello Mushrooms, Avocado, Lettuce, Tomato, Onion","Sauces":"Oil and Vinegar","Temperature":"Cold"},
+{"Sandwich Group":"Wraps and Rolls","Sandwich Name":"Tofu","Bread/Wrapper Type":"Rice Paper Spring Roll Wrapper","Major Inner Ingredients":"Grilled Tofu, Lettuce, Thai Basil, Pickled Carrots, Cucumber","Sauces":"Spicy Soy","Temperature":"Cold"},
+{"Sandwich Group":"Subs","Sandwich Name":"BBQ","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Brisket, Cheddar","Sauces":"BBQ","Temperature":"Hot"},
+{"Sandwich Group":"Subs","Sandwich Name":"Cheesesteak","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Steak, Provolone, Onions, Bell Peppers","Sauces":"Mustard","Temperature":"Hot"},
+{"Sandwich Group":"Subs","Sandwich Name":"Meatball","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Meatballs, Provolone, Red Sauce","Sauces":"None","Temperature":"Hot"},
+{"Sandwich Group":"Subs","Sandwich Name":"Turkey","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Turkey breast, Pepper Jack, Lettuce, Tomato, Onion","Sauces":"Mustard","Temperature":"Cold"},
+{"Sandwich Group":"Subs","Sandwich Name":"Vegetarian","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Roasted Portobello Mushrooms, Avocado, Lettuce, Tomato, Onion","Sauces":"Oil and Vinegar","Temperature":"Cold"},
+{"Sandwich Group":"Subs","Sandwich Name":"Meat Lover","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Salami, Turkey, Roast Beef, Provolone, Lettuce, Tomato","Sauces":"Oil and Vinegar","Temperature":"Cold"},
+{"Sandwich Group":"Paninis","Sandwich Name":"Roast Beef","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Roast Beef, Provolone, Lettuce, Tomato","Sauces":"Dijon","Temperature":"Hot"},
+{"Sandwich Group":"Paninis","Sandwich Name":"BLT","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Bacon, Lettuce, Tomato","Sauces":"Mayo","Temperature":"Hot"},
+{"Sandwich Group":"Paninis","Sandwich Name":"Grilled Cheese","Bread/Wrapper Type":"White or Whole Wheat Roll","Major Inner Ingredients":"Provolone, Cheddar, Carmelized Onions","Sauces":"Dijon","Temperature":"Hot"}
+]
